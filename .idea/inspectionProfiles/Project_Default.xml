@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="ipywidgets" />
+          <option value="jupyter" />
+          <option value="matplotlib" />
+          <option value="opencv" />
+          <option value="pytorch" />
+          <option value="torchtext" />
+          <option value="torchvision" />
+          <option value="torchdata" />
+          <option value="gensim" />
+          <option value="gym" />
+          <option value="huggingface" />
+          <option value="imageio" />
+          <option value="keras" />
+          <option value="nltk" />
+          <option value="pillow" />
+          <option value="pygame" />
+          <option value="scikit-image" />
+          <option value="seaborn" />
+          <option value="smart-open" />
+          <option value="tensorboard-data-server" />
+          <option value="tensorflow-datasets" />
+          <option value="tensorflow-hub" />
+          <option value="tensorflow" />
+          <option value="tensorboard" />
+          <option value="tokenizers" />
+          <option value="torchinfo" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
